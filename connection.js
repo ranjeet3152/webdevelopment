@@ -17,14 +17,5 @@ con.connect(function(err) {
     console.log("Table created");
   });
 });
-// con.connect(function(err){
-//     if(err) throw err;
-//     console.log("dfgh");
-//     var sql = "Select * from caterer where caterer_id = 101";
-//     con.query(sql, function(err, result){
-
-//     })
-// })
-
 
 module.exports = con;

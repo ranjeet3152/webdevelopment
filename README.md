@@ -14,5 +14,4 @@
 
 </br>
 <b>For Using The application</br></b>
-  Visit </br>
-  `http://localhost/3000`
+Visit`http://localhost/3000`

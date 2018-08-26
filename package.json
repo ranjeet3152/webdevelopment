@@ -1,0 +1,18 @@
+{
+  "name": "cookbuk",
+  "version": "1.0.0",
+  "description": "\"A Web Application for the user - Which shows the caterer and their menu details based on filter criteria\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"ranjeet\"",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.3"
+  }
+}
